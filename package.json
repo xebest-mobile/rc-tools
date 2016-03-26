@@ -80,6 +80,7 @@
   "devDependencies": {
     "gulp-util": "^3.0.7",
     "html-webpack-plugin": "^2.10.0",
+    "img-loader": "^1.2.2",
     "pre-commit": "1.x",
     "webpack": "^1.12.14",
     "webpack-dev-server": "^1.14.1"
